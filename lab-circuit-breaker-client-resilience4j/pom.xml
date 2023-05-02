@@ -37,13 +37,7 @@
 			<artifactId>reactor-test</artifactId>
 			<scope>test</scope>
 		</dependency>	
-		<dependency>
-			<groupId>testeconflito1</groupId>		
-		</dependency>
-		<dependency>
-			<groupId>conflit1</groupId>
-			<artifactId>conflit1</artifactId>		
-		</dependency>
+		
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
