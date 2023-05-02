@@ -37,6 +37,10 @@
 			<artifactId>reactor-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!--<dependency>
+			<groupId>teste conflito</groupId>
+			
+		</dependency>-->
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
